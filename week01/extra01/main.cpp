@@ -62,7 +62,7 @@ int main() {
         case 2:
             rightTri(n, ch);
             break;
-        case 3:
+        case 1:
             revLeftTri(n, ch);
             break;
         case 4:

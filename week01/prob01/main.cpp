@@ -9,7 +9,7 @@ int main() {
 
     for (int i = 1; i <= rows; i++) {
         for (int j = 1; j <= cols; j++) {
-            cout << left << setw(4) << i * j;
+            cout << left << setw(6) << i * j;
         }
         cout << endl;
     }
